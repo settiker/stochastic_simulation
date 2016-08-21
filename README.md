@@ -1,2 +1,4 @@
-# stochastic_simulation
-Simulation Methods for Stochastic Systems
+# Simulation Methods for Stochastic Systems
+
+
+Project Detail Description
