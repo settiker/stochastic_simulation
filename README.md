@@ -1,4 +1,10 @@
 # Simulation Methods for Stochastic Systems
 
 
-Project Detail Description
+Projects : 
+
+# Working with Mixtures
+asdnkasndkfnakslndlkanlkdnlka nadkfnakndklna lk
+
+# Monte Carlo_Markow Chain Monte Carlo
+kjjjjjjjjjjj fsdjkkkkkkkkk
